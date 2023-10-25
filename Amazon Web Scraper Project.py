@@ -14,7 +14,7 @@ def check_price():
     URL = 'https://www.amazon.com/iFixit-Repair-Business-Toolkit-Smartphone/dp/B0BXYBMGDY/ref=b2b_gw_d_ab_lists_widget_sccl_1/130-6746188-2099749?pd_rd_w=HR9dU&content-id=amzn1.sym.e1612812-dfc0-4992-8454-ce8b8c97ea8b&pf_rd_p=e1612812-dfc0-4992-8454-ce8b8c97ea8b&pf_rd_r=VA7NNK31ZTS68FTW1N3W&pd_rd_wg=fRic8&pd_rd_r=4799d71b-2c11-49d6-8c30-a46751300167&pd_rd_i=B0BXYBMGDY&psc=1'
 
     headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+    "User-Agent": "Enter your user agent info",
     "Accept-Encoding": "gzip, deflate",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "DNT": "1",
